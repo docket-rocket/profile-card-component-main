@@ -18,8 +18,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [https://github.com/klara-pavlov/profile-card-component-solution](https://github.com/klara-pavlov/profile-card-component-solution)
-- Live Site URL: [https://profile-card-component-solution-klara-pavlov-2021.netlify.app/](https://profile-card-component-solution-klara-pavlov-2021.netlify.app/)
+- Solution URL: https://github.com/docket-rocket/profile-card-component-main
+- Live Site URL: https://docket-rocket.github.io/profile-card-component-main/
 
 ### Built with
 
@@ -29,6 +29,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Frontend Mentor - [@klara-pavlov](https://www.frontendmentor.io/profile/klara-pavlov)
-- GitHub - [@klara-pavlov](https://github.com/klara-pavlov)
-- Instagram - [@klara.pavlov](https://www.instagram.com/klara.pavlov/)
+- Frontend Mentor - [@docket-rocket](https://www.frontendmentor.io/profile/docket-rocket)
+- GitHub - [@docket-rocket](https://github.com/docket-rocket)
+- Instagram - [@__pvivek__](https://www.instagram.com/__pvivek__/)
